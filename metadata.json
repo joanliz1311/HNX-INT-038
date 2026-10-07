@@ -1,0 +1,6 @@
+{
+  "name": "Multimodal Document Intelligence (HNX26PSI01)",
+  "description": "Vision-First Multimodal RAG pipeline for mixed documents (PDFs, tables, charts, scans) with visual patch grounding, LangChain & LlamaIndex architecture, and evidence verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
